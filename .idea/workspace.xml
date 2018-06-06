@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef934a2-b754-43e5-afbc-27ddc19ade5b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/FE-dev-test.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/package.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/public/favicon.ico" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/public/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/public/manifest.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/App.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/App.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/App.test.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/components/ListTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/index.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/logo.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/registerServiceWorker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/yarn.lock" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fe-test/src/component/list/index.js" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/src/components/data.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/test/src/components/ListTest.js" afterPath="$PROJECT_DIR$/test/src/components/ListTest.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -41,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/test/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -52,11 +33,31 @@
       <file leaf-file-name="ListTest.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/src/components/ListTest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="174" column="17" lean-forward="true" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
+            <state relative-caret-position="259">
+              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding>
-                <element signature="e#155#18021#0" expanded="false" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/src/components/data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="98" lean-forward="false" selection-start-line="1" selection-start-column="90" selection-end-line="1" selection-end-column="98" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,6 +94,8 @@
         <option value="$PROJECT_DIR$/fe-test/src/component/list/index.js" />
         <option value="$PROJECT_DIR$/fe-test/src/App.js" />
         <option value="$PROJECT_DIR$/test/src/App.js" />
+        <option value="$PROJECT_DIR$/test/package.json" />
+        <option value="$PROJECT_DIR$/test/src/components/data.js" />
         <option value="$PROJECT_DIR$/test/src/components/ListTest.js" />
       </list>
     </option>
@@ -242,12 +245,12 @@
       <updated>1527750752295</updated>
       <workItem from="1527750754218" duration="4238000" />
       <workItem from="1527769925172" duration="10826000" />
-      <workItem from="1528203365394" duration="9852000" />
+      <workItem from="1528203365394" duration="22802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24916000" />
+    <option name="totallyTimeSpent" value="37866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -294,16 +297,6 @@
     <entry file="file://$PROJECT_DIR$/fe-test/src/component/list/index.js" />
     <entry file="file://$PROJECT_DIR$/fe-test/src/registerServiceWorker.js" />
     <entry file="file://$PROJECT_DIR$/fe-test/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/test/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -314,12 +307,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/components/data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="98" lean-forward="false" selection-start-line="1" selection-start-column="90" selection-end-line="1" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/src/components/ListTest.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="174" column="17" lean-forward="true" selection-start-line="174" selection-start-column="17" selection-end-line="174" selection-end-column="17" />
+        <state relative-caret-position="259">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
           <folding>
-            <element signature="e#155#18021#0" expanded="false" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
